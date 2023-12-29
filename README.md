@@ -1,35 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alexander Volkov</h1>
 <h3 align="center">Backend developer, but lately full stack.</h3>
 
-- I have been working on .NET development for 4 years. 
-
+<h4> - I have been working on .NET development for 4 years.
 - At the moment I am working with .NET Web API 7-8. 
-
 - About a year ago I switched to Linux, and specifically to Ubuntu. 
 
+
 - Here is my stack of technologies that I used/am using:
-
 - I use Redis for cache in my projects. 
-
 - For the gateway I choose Ocelot and/or Nginx. 
-
 - Worked with many databases: mssql, pgsql, mysql, mongo, redis. 
-
 - For the frontend I use React, Blazor and quite a bit of Angular...
-
 - Logging - Serilog. 
-
 - Web socket? Signal R! 
-
 - I combine a “pure” sql with the Entity Framework Core. 
-
 - And of course containerization, Docker!
-
 - For AMQP - RabbitMq. 
-
 - If there is a need to map, I use an Automapper. 
-
-- I am currently actively developing my personal website. 
+- I am currently actively developing my personal website. </h4> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

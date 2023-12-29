@@ -7,17 +7,17 @@
 
 
 <h3 align="left">Here is my stack of technologies that I used/am using:</h3>
-- I use Redis for cache in my projects. 
-- For the gateway I choose Ocelot and/or Nginx. 
-- Worked with many databases: mssql, pgsql, mysql, mongo, redis. 
-- For the frontend I use React, Blazor and quite a bit of Angular...
-- Logging - Serilog. 
-- Web socket? Signal R! 
-- I combine a “pure” sql with the Entity Framework Core. 
-- And of course containerization, Docker!
-- For AMQP - RabbitMq. 
-- If there is a need to map, I use an Automapper. 
-- I am currently actively developing my personal website. 
+<p>- I use Redis for cache in my projects.</p>
+<p>- For the gateway I choose Ocelot and/or Nginx. </p>
+<p>- Worked with many databases: mssql, pgsql, mysql, mongo, redis. </p>
+<p>- For the frontend I use React, Blazor and quite a bit of Angular...</p>
+<p>- Logging - Serilog. </p>
+<p>- Web socket? Signal R! </p>
+<p>- I combine a “pure” sql with the Entity Framework Core. </p>
+<p>- And of course containerization, Docker!</p>
+<p>- For AMQP - RabbitMq. </p>
+<p>- If there is a need to map, I use an Automapper. </p>
+<p>- I am currently actively developing my personal website. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

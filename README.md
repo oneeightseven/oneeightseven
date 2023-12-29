@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Volkov</h1>
-
 <h3 align="left">Backend developer, but lately full stack.</h3>
+
 - I have been working on .NET development for 4 years.
 - At the moment I am working with .NET Web API 7-8. 
 - About a year ago I switched to Linux, and specifically to Ubuntu. 

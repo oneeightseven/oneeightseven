@@ -6,18 +6,18 @@
 <h4> - About a year ago I switched to Linux, and specifically to Ubuntu.</h4> 
 </br>
 </br>
-<h4> - Here is my stack of technologies that I used/am using:</h4> 
-<h4> - I use Redis for cache in my projects.</h4> 
-<h4> - For the gateway I choose Ocelot and/or Nginx.</h4>
-<h4> - Worked with many databases: mssql, pgsql, mysql, mongo, redis.</h4> 
-<h4> - For the frontend I use React, Blazor and quite a bit of Angular...</h4> 
-<h4> - Logging - Serilog.</h4> 
-<h4> - Web socket? Signal R! </h4> 
-<h4> - I combine a “pure” sql with the Entity Framework Core.</h4> 
-<h4> - And of course containerization, Docker!</h4> 
-<h4> - For AMQP - RabbitMq.</h4> 
-<h4> - If there is a need to map, I use an Automapper.</h4> 
-<h4> - I am currently actively developing my personal website.</h4> 
+<h4 margin-bottom="1px"> - Here is my stack of technologies that I used/am using:</h4> 
+<h4 margin-bottom="1px"> - I use Redis for cache in my projects.</h4> 
+<h4 margin-bottom="1px"> - For the gateway I choose Ocelot and/or Nginx.</h4>
+<h4 margin-bottom="1px"> - Worked with many databases: mssql, pgsql, mysql, mongo, redis.</h4> 
+<h4 margin-bottom="1px"> - For the frontend I use React, Blazor and quite a bit of Angular...</h4> 
+<h4 margin-bottom="1px"> - Logging - Serilog.</h4> 
+<h4 margin-bottom="1px"> - Web socket? Signal R! </h4> 
+<h4 margin-bottom="1px"> - I combine a “pure” sql with the Entity Framework Core.</h4> 
+<h4 margin-bottom="1px"> - And of course containerization, Docker!</h4> 
+<h4 margin-bottom="1px"> - For AMQP - RabbitMq.</h4> 
+<h4 margin-bottom="1px"> - If there is a need to map, I use an Automapper.</h4> 
+<h4 margin-bottom="1px"> - I am currently actively developing my personal website.</h4> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,6 @@
 <style>
     h4 {
         margin-top: 0;
-        margin-bottom: 4px;
+        margin-bottom: 1px;
     }
 </style>

@@ -6,8 +6,7 @@
 - About a year ago I switched to Linux, and specifically to Ubuntu. 
 
 
-
-- Here is my stack of technologies that I used/am using:
+<h3 align="left">Here is my stack of technologies that I used/am using:</h3>
 - I use Redis for cache in my projects. 
 - For the gateway I choose Ocelot and/or Nginx. 
 - Worked with many databases: mssql, pgsql, mysql, mongo, redis. 

@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alexander Volkov</h1>
 <h3 align="center">Backend developer, but lately full stack.</h3>
 
-<h4> - I have been working on .NET development for 4 years.</h4> 
-<h4> - At the moment I am working with .NET Web API 7-8.</h4> 
-<h4> - About a year ago I switched to Linux, and specifically to Ubuntu.</h4> 
+<h4> - I have been working on .NET development for 4 years.
+- At the moment I am working with .NET Web API 7-8. 
+- About a year ago I switched to Linux, and specifically to Ubuntu.</h4> 
 </br>
 </br>
-<h4> - Here is my stack of technologies that I used/am using:</h4> 
-<h4> - I use Redis for cache in my projects.</h4> 
-<h4> - For the gateway I choose Ocelot and/or Nginx.</h4>
-<h4> - Worked with many databases: mssql, pgsql, mysql, mongo, redis.</h4> 
-<h4> - For the frontend I use React, Blazor and quite a bit of Angular...</h4> 
-<h4> - Logging - Serilog.</h4> 
-<h4> - Web socket? Signal R! </h4> 
-<h4> - I combine a “pure” sql with the Entity Framework Core.</h4> 
-<h4> - And of course containerization, Docker!</h4> 
-<h4> - For AMQP - RabbitMq.</h4> 
-<h4> - If there is a need to map, I use an Automapper.</h4> 
-<h4> - I am currently actively developing my personal website.</h4> 
+<h4> - Here is my stack of technologies that I used/am using:
+- I use Redis for cache in my projects.
+- For the gateway I choose Ocelot and/or Nginx.
+- Worked with many databases: mssql, pgsql, mysql, mongo, redis. 
+- For the frontend I use React, Blazor and quite a bit of Angular...
+- Logging - Serilog.
+- Web socket? Signal R! 
+- I combine a “pure” sql with the Entity Framework Core.
+- And of course containerization, Docker!
+- For AMQP - RabbitMq.
+- If there is a need to map, I use an Automapper. 
+- I am currently actively developing my personal website.</h4> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

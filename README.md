@@ -4,8 +4,9 @@
 - I have been working on .NET development for 4 years.
 - At the moment I am working with .NET Web API 7-8. 
 - About a year ago I switched to Linux, and specifically to Ubuntu. 
-</br>
-</br>
+
+
+
 - Here is my stack of technologies that I used/am using:
 - I use Redis for cache in my projects. 
 - For the gateway I choose Ocelot and/or Nginx. 

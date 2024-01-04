@@ -8,17 +8,18 @@
 
 <h3 align="left">Here is my stack of technologies that I used/am using:</h3>
 
+- Worked with many databases: mssql, pgsql, mysql, mongo, redis.
+- I combine a “pure” sql with the Entity Framework Core. 
 - I use Redis for cache in my projects.
-- For the gateway I choose Ocelot and/or Nginx. 
-- Worked with many databases: mssql, pgsql, mysql, mongo, redis. 
 - For the frontend I use React, Blazor and quite a bit of Angular...
+- For the gateway I choose Ocelot and/or Nginx. 
 - Logging - Serilog. 
 - Web socket? Signal R! 
-- I combine a “pure” sql with the Entity Framework Core. 
 - And of course containerization, Docker!
 - For AMQP - RabbitMq. 
 - If there is a need to map, I use an Automapper. 
-- I am currently actively developing my personal website. 
+
+<h3 align="left">I am currently actively developing my personal website.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -19,7 +19,13 @@
 - For AMQP - RabbitMq. 
 - If there is a need to map, I use an Automapper. 
 
-<h3 align="left">I am currently actively developing my personal website.</h3>
+<h3 align="left">I even have my own website!</h3>
+
+- [alexander-volkov.ru](https://alexander-volkov.ru/)
+
+<h3 align="left">Connect with me:</h3>
+
+- All ways to contact me are on [my website](https://alexander-volkov.ru/) 😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -27,7 +27,6 @@
 
 - All ways to contact me are on [my website](https://alexander-volkov.ru/) 😉
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
